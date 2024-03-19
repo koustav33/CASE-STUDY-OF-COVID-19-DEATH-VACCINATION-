@@ -1,4 +1,4 @@
-*CASE STUDY OF THE Coronavirus (COVID-19)(DEATH & VACCINATION)
+*Covid-19 Data Analysis Using SQL and Tableau
 
 **Collected data from Our World in Data (https://ourworldindata.org/covid-deaths)
  SQL  is been used to do some Data Exploration. 
